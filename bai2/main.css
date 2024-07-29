@@ -1,0 +1,31 @@
+.first ul li{
+    display: inline-block;
+    padding: 15px 180px 0px 180px;
+}
+.block {
+    display: flex;
+    justify-content: space-between;
+    list-style:none;
+}
+.img img{
+    width: 200px;
+    height: auto;
+}
+h3{
+    font-size: 16px;
+    font-weight: lighter;
+}
+p{
+    font-size: 12px;
+}
+.text{
+    width: 200px;
+    text-align: center;
+}
+.second{
+    margin: 50px 200px 100px 200px;
+}
+hr{
+    margin:25px;
+}
+
